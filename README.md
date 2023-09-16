@@ -7,9 +7,9 @@ A Docker/Podman containerized version of the speedtest cli provided by Ookla
 ## Running
 To download Dockerfile:
 ```bash
-curl link
+curl https://raw.githubusercontent.com/ThisIsNotANamepng/podman-speedtest/main/Dockerfile -o "Dockerfile"
 or
-wget link
+wget https://raw.githubusercontent.com/ThisIsNotANamepng/podman-speedtest/main/Dockerfile
 ```
 
 To build

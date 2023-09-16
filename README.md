@@ -2,7 +2,7 @@
 A Docker/Podman containerized version of the speedtest cli provided by Ookla
 
 ## Disclaimer
-#### While container around it is provided by me, the code and infrastructure for the speed test itself is solely the property of [Ookla](https://www.speedtest.net/apps/cli). By running and using this image you agree to Ookla's speedtest-cli license agreement (displayed when you run it the first time). 
+#### While container around it is provided by me, the code and infrastructure for the speed test itself is solely the property of [Ookla](https://www.speedtest.net/apps/cli). By running and using this image you agree to Ookla's [EULA](https://www.speedtest.net/about/eula), [Privacy Policy](https://www.speedtest.net/about/privacy), and [Terms](https://www.speedtest.net/about/terms). 
 
 ## Running
 To download Dockerfile:
